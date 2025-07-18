@@ -11,6 +11,10 @@
     {
       "version": "0.80.2",
       "download_url": "https://github.com/Bogdaudae/BEADAE/releases/download/0.80.2/BEADAE-v0.80.2.zip"
+    },
+    {
+      "version": "0.80.3",
+      "download_url": "https://github.com/Bogdaudae/BEADAE/releases/download/0.80.3/BEADAE-v0.80.3.zip"
     }
   ]
 }
