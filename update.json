@@ -2,34 +2,35 @@
   "updates": [
     {
       "version": "0.80",
-      "download_url": "https://github.com/Bogdaudae/BEADAE/releases/download/0.80/BEADAE-v0.80.7z"
+      "download_url": "https://github.com/Bogdaudae/Freya/releases/download/0.80/BEADAE-v0.80.7z"
     },
     {
       "version": "0.80.1",
-      "download_url": "https://github.com/Bogdaudae/BEADAE/releases/download/0.80.1/BEADAE-v0.80.1.zip"
+      "download_url": "https://github.com/Bogdaudae/Freya/releases/download/0.80.1/BEADAE-v0.80.1.zip"
     },
     {
       "version": "0.80.2",
-      "download_url": "https://github.com/Bogdaudae/BEADAE/releases/download/0.80.2/BEADAE-v0.80.2.zip"
+      "download_url": "https://github.com/Bogdaudae/Freya/releases/download/0.80.2/BEADAE-v0.80.2.zip"
     },
     {
       "version": "0.80.3",
-      "download_url": "https://github.com/Bogdaudae/BEADAE/releases/download/0.80.3/BEADAE-v0.80.3.zip"
+      "download_url": "https://github.com/Bogdaudae/Freya/releases/download/0.80.3/BEADAE-v0.80.3.zip"
     },
     {
       "version": "0.80.4",
-      "download_url": "https://github.com/Bogdaudae/BEADAE/releases/download/0.80.4/BEADAE-v0.80.4.zip"
+      "download_url": "https://github.com/Bogdaudae/Freya/releases/download/0.80.4/BEADAE-v0.80.4.zip"
     },
     {
       "version": "0.80.5",
-      "download_url": "https://github.com/Bogdaudae/BEADAE/releases/download/0.80.5/BEADAE-0.80.5.zip"
+      "download_url": "https://github.com/Bogdaudae/Freya/releases/download/0.80.5/BEADAE-0.80.5.zip"
     },
     {
       "version": "0.80.6",
-      "download_url": "https://github.com/Bogdaudae/BEADAE/releases/download/0.80.6/BEADAE-v0.80.6.zip"
+      "download_url": "https://github.com/Bogdaudae/Freya/releases/download/0.80.6/BEADAE-v0.80.6.zip"
     }
   ]
 }
+
 
 
 
